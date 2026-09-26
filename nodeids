@@ -1,0 +1,13 @@
+[
+  "backend/tests/test_api.py::test_ai_eligibility_tips_endpoint",
+  "backend/tests/test_api.py::test_credit_utilization_calculation",
+  "backend/tests/test_api.py::test_dti_calculation",
+  "backend/tests/test_api.py::test_duplicate_registration",
+  "backend/tests/test_api.py::test_emi_calculation",
+  "backend/tests/test_api.py::test_health_check",
+  "backend/tests/test_api.py::test_invalid_login",
+  "backend/tests/test_api.py::test_loan_eligibility_endpoint",
+  "backend/tests/test_api.py::test_user_login",
+  "backend/tests/test_api.py::test_user_registration",
+  "backend/tests/test_api.py::test_validation_boundaries"
+]
